@@ -1,0 +1,38 @@
+!!python/object:engine.cameraSystem.CameraData
+loc1: !!python/tuple
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [746.24591064453125,
+    1840.80322265625, 345.44049072265625]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.9537169337272644,
+    0.0, 0.30070582032203674, 0.0]
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 0.0, 0.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.86602538824081421,
+    -0.50000005960464478, 0.0, 0.0]
+loc2: !!python/tuple
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 500.0, 800.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.9537169337272644,
+    0.0, 0.30070582032203674, 0.0]
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 0.0, 0.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.86602538824081421,
+    -0.50000005960464478, 0.0, 0.0]
+loc3: !!python/tuple
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 500.0, 800.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.9537169337272644,
+    0.0, 0.30070582032203674, 0.0]
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 0.0, 0.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.86602538824081421,
+    -0.50000005960464478, 0.0, 0.0]
+loc4: !!python/tuple
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 500.0, 800.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.9537169337272644,
+    0.0, 0.30070582032203674, 0.0]
+- !!python/object:engine.vector.pqPair
+  p: !!python/object/apply:ogre.renderer.OGRE._ogre_.Vector3 [0.0, 0.0, 0.0]
+  q: !!python/object/apply:ogre.renderer.OGRE._ogre_.Quaternion [0.86602538824081421,
+    -0.50000005960464478, 0.0, 0.0]

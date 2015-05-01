@@ -1,0 +1,16 @@
+
+material Material1
+{
+	technique
+	{
+		pass
+		{
+            lighting on
+			emissive 0.800000 0.800000 0.800000
+		}
+
+	}
+
+}
+
+

@@ -1,0 +1,4 @@
+openwater: !!python/object:engine.levelSystem.LevelData
+  dimensions: [10000, 10000]
+  gridSize: 100
+  name: openwater

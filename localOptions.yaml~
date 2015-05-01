@@ -1,0 +1,25 @@
+!!python/object:__main__.LocalOptions
+engineeringOptions: !!python/object:__main__.EngineeringOptions
+  abortIfCompilingExtensionsFail: true
+  alwaysBuildExt: true
+  compileCEntForMingW: false
+  configPath: config
+  doProfiling: false
+  loadPsyco: false
+  releaseMode: false
+gameOptions: !!python/object:__main__.GameOptions
+  testToRun: 8
+  toLoad: []
+gfxOptions: !!python/object:__main__.GfxOptions
+  drawGrid: false
+  hydrax: false
+  renderSkybox: true
+  renderWater: true
+networkingOptions: !!python/object:__main__.NetworkingOptions
+  enableNetworking: false
+  ip: 134.197.40.126
+  server: false
+  vShipNet: false
+playerOptions: !!python/object:__main__.Player
+  playerId: -1
+  side: 0

@@ -1,0 +1,6 @@
+dimensions: [10000, 10000]
+gridStep:   0.1
+mesh:       !!null
+texture:    !!null
+scale:      1.0
+depthScale: 1.0
